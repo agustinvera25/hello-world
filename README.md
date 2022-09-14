@@ -1,3 +1,5 @@
 # hello-world
 
-Metodologia Clase 3 actividad 2b
+Mi primer repositorio
+
+i love :pizza: :beer: :computer:
